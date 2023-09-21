@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travel-today/static/css/main.e10fd954.css",
-    "main.js": "/travel-today/static/js/main.a2316dec.js",
+    "main.js": "/travel-today/static/js/main.e413898d.js",
     "static/js/787.fa4a499b.chunk.js": "/travel-today/static/js/787.fa4a499b.chunk.js",
     "static/media/1.jpg": "/travel-today/static/media/1.0b65e1e4ddd6611a817a.jpg",
     "static/media/3.png": "/travel-today/static/media/3.911a9b7073aafee2f4b7.png",
@@ -26,11 +26,11 @@
     "static/media/20.jpg": "/travel-today/static/media/20.558bbee943c464034442.jpg",
     "index.html": "/travel-today/index.html",
     "main.e10fd954.css.map": "/travel-today/static/css/main.e10fd954.css.map",
-    "main.a2316dec.js.map": "/travel-today/static/js/main.a2316dec.js.map",
+    "main.e413898d.js.map": "/travel-today/static/js/main.e413898d.js.map",
     "787.fa4a499b.chunk.js.map": "/travel-today/static/js/787.fa4a499b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e10fd954.css",
-    "static/js/main.a2316dec.js"
+    "static/js/main.e413898d.js"
   ]
 }
