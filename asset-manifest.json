@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/travel-today/static/css/main.e10fd954.css",
+    "main.js": "/travel-today/static/js/main.a2316dec.js",
+    "static/js/787.fa4a499b.chunk.js": "/travel-today/static/js/787.fa4a499b.chunk.js",
+    "static/media/1.jpg": "/travel-today/static/media/1.0b65e1e4ddd6611a817a.jpg",
+    "static/media/3.png": "/travel-today/static/media/3.911a9b7073aafee2f4b7.png",
+    "static/media/2.jpg": "/travel-today/static/media/2.165f100acfe8f784f0e0.jpg",
+    "static/media/slider2.jpg": "/travel-today/static/media/slider2.959ee22e41fd48630c06.jpg",
+    "static/media/15.jpg": "/travel-today/static/media/15.d78b778ef13aab85aa75.jpg",
+    "static/media/23.png": "/travel-today/static/media/23.849e19da9d78ff6a4890.png",
+    "static/media/7.jpg": "/travel-today/static/media/7.36339fd276bfd885203c.jpg",
+    "static/media/6.jpg": "/travel-today/static/media/6.4dbbe51a11bf2f3e4cee.jpg",
+    "static/media/9.jpg": "/travel-today/static/media/9.57a5f20168be8c4e4459.jpg",
+    "static/media/team3.jpg": "/travel-today/static/media/team3.f768e4527c4bee09d8cb.jpg",
+    "static/media/team2.jpg": "/travel-today/static/media/team2.86cfc12a57e31d7d8b46.jpg",
+    "static/media/team1.jpg": "/travel-today/static/media/team1.58ccb58e450aad336857.jpg",
+    "static/media/destination-img4.jpg": "/travel-today/static/media/destination-img4.da3f2b08d93c91ac0cd7.jpg",
+    "static/media/22.jpg": "/travel-today/static/media/22.f525811833e801885a65.jpg",
+    "static/media/destination-img1.jpg": "/travel-today/static/media/destination-img1.e509a599cec2633dbe5f.jpg",
+    "static/media/destination-img3.jpg": "/travel-today/static/media/destination-img3.6f00e22719ecadc50bfe.jpg",
+    "static/media/destination-img5.jpg": "/travel-today/static/media/destination-img5.d8d7fd892f342f151345.jpg",
+    "static/media/destination-img2.jpg": "/travel-today/static/media/destination-img2.86ac4fc0d722c2ebc730.jpg",
+    "static/media/destination-img6.jpg": "/travel-today/static/media/destination-img6.56bb9d945d355927739c.jpg",
+    "static/media/21.jpg": "/travel-today/static/media/21.0f58893b735e27735e9f.jpg",
+    "static/media/20.jpg": "/travel-today/static/media/20.558bbee943c464034442.jpg",
+    "index.html": "/travel-today/index.html",
+    "main.e10fd954.css.map": "/travel-today/static/css/main.e10fd954.css.map",
+    "main.a2316dec.js.map": "/travel-today/static/js/main.a2316dec.js.map",
+    "787.fa4a499b.chunk.js.map": "/travel-today/static/js/787.fa4a499b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e10fd954.css",
+    "static/js/main.a2316dec.js"
+  ]
+}
