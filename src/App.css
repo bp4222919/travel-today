@@ -1,38 +1,57 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Mooli&family=Roboto:wght@300;400;900&display=swap');
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Mooli', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+
+:root {
+  --main-color: #01959a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  overflow: none;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  transition: all 0.2s ease-in-out;
+  font-family: 'Roboto', sans-serif;
+}
+
+html::-webkit-scrollbar {
+  width: .4rem;
+}
+
+html::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #d3d0d0;
+  border-radius: 2rem;
+}
+
+h1 {
   text-align: center;
+  font-size: 2.5rem;
+  color: #222;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p {
+  text-align: center;
+  font-size: 1rem;
+  padding: .5rem 10rem;
+  color: #222222b2;
+  line-height: 30px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media screen and (max-width:850px) {
+  p {
+    text-align: center;
+    font-size: 1rem;
+    padding: .2rem .5rem;
+    line-height: 30px;
   }
 }

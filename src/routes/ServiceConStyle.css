@@ -1,0 +1,62 @@
+.service-content{
+    width: 100%;
+    height: auto;
+    padding: 5% 7%;
+}
+.service-cantainer{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 50px;
+}
+.service-box{
+    height: 450px;
+    border-radius: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.service-box:nth-child(1){
+    background-image: url(../images/destination-img1.jpg);
+}
+.service-box:nth-child(2){
+    background-image: url(../images/destination-img2.jpg);
+}
+.service-box:nth-child(3){
+    background-image: url(../images/destination-img3.jpg);
+}
+.service-box:nth-child(4){
+    background-image: url(../images/destination-img4.jpg);
+}
+.service-box:nth-child(5){
+    background-image: url(../images/destination-img5.jpg);
+}
+.service-box:nth-child(6){
+    background-image: url(../images/destination-img6.jpg);
+}
+.heading{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    padding-bottom: 30px;
+    border-radius: 20px;
+}
+.heading h1{
+    font-size: 3rem;
+    color: #fff;
+}
+.mapouter{
+    position:relative;
+    text-align:right;
+    height:100%;
+    width:100%;
+}
+.gmap_canvas{
+    overflow:hidden;
+    background:none!important;
+    height:100%;
+    width:100%;
+}
